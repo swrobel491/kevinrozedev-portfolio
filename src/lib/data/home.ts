@@ -1,41 +1,25 @@
 import { Platform } from '$lib/types';
 import { getSkills } from './skills';
 
-export const title = 'Home';
+export const title = 'Kevin Riley';
 
-export const name = 'Name';
+export const name = 'Kevin';
 
-export const lastName = 'LastName';
+export const lastName = 'Riley';
 
 export const description =
-	'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti, rerum. Debitis accusantium deleniti enim iste dignissimos? Similique, exercitationem! Odit vero, numquam quae ratione maxime sunt reiciendis laudantium quaerat iure ipsum!';
+	'A results-driven Senior .NET Engineer with 10+ years of expertise in architecting and developing high-performance, scalable systems in the FinTech, InsurTech, and healthcare sectors.';
 
 export const links: Array<{ platform: Platform; link: string }> = [
 	{ platform: Platform.GitHub, link: 'https://github.com/' },
-	{
-		platform: Platform.Linkedin,
-		link: 'https://www.linkedin.com/'
-	},
-	{
-		platform: Platform.Twitter,
-		link: 'https://twitter.com/'
-	},
 	{
 		platform: Platform.StackOverflow,
 		link: 'https://stackoverflow.com/'
 	},
 	{
 		platform: Platform.Email,
-		link: 'riadh_adrani@hotmail.fr'
-	},
-	{
-		platform: Platform.Youtube,
-		link: 'https://www.youtube.com'
-	},
-	{
-		platform: Platform.Facebook,
-		link: 'https://www.facebook.com'
+		link: 'kevin.rozedev@gmail.com'
 	}
 ];
 
-export const skills = getSkills('js', 'css', 'html', 'reactjs', 'sass', 'svelte', 'ts');
+export const skills = getSkills('dotnet', 'csharp', 'python', 'angular', 'azure', 'git', 'vs');

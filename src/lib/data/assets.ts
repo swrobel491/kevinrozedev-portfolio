@@ -51,6 +51,8 @@ const Assets = {
 	AdonisJs: a('adonis.png'),
 	Android: a('android.png'),
 	Angular: a('angular.png'),
+	MSSql: a('mssql.svg'),
+	MySql: a('mysql.svg'),
 	PostgreSQL: a('postgres.png'),
 	Firebase: a('firebase.png'),
 	Sass: a('sass.png'),
@@ -70,7 +72,27 @@ const Assets = {
 	Jest: a('jest.png'),
 	Unocss: a('unocss.svg'),
 	Ruvy: a('ruvy.svg'),
-	Postcss: a('postcss.svg')
+	Postcss: a('postcss.svg'),
+	DotNet: a('.net.svg'),
+	GraphQL: a('graphql.svg'),
+	Swagger: a('swagger.svg'),
+	Azure: a('azure.svg'),
+	GCP: a('gcp.svg'),
+	Git: a('git.svg'),
+	GitHub: a('github.svg'),
+	GitLab: a('gitlab.svg'),
+	Agile: a('agile.svg'),
+	PowerBI: a('powerbi.svg'),
+	VS: a('vs.svg'),
+	VSCode: a('vscode.svg'),
+	Jira: a('jira.svg'),
+	MS365: a('365.svg'),
+	UWF: a('uwf.jpg'),
+	DIU: a('diu.webp'),
+	HSABank: a('hsabank.png'),
+	Tapcheck: a('tapcheck.webp'),
+	Bolt: a('bolt.png'),
+	SnapHealth: a('snaphealth.jpg')
 };
 
 export default Assets;

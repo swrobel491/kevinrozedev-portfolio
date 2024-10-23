@@ -3,28 +3,28 @@ import type { Education } from '../types';
 
 export const items: Array<Education> = [
 	{
-		degree: 'Bachelor degree of Computer Science',
+		degree: 'Master of Engineering in Software Engineering',
 		description: '',
-		location: 'Tunisia',
-		logo: Assets.Unknown,
+		location: 'Pensacola, FL',
+		logo: Assets.UWF,
 		name: '',
-		organization: 'ISTIC',
-		period: { from: new Date(2020, 0, 1), to: new Date(2022, 5, 1) },
-		shortDescription: '',
-		slug: 'dummy-education-item',
-		subjects: ['C', 'Algorithm', 'Algebra', 'Python', 'C++', 'Java', 'English']
-	},
-	{
-		degree: 'PhD of Computer Science',
-		description: '',
-		location: 'USA',
-		logo: Assets.Unknown,
-		name: '',
-		organization: 'MIT',
-		period: { from: new Date(2023, 0, 1) },
+		organization: 'University of West Florida',
+		period: { from: new Date(2016, 3, 5), to: new Date(2017, 11, 10) },
 		shortDescription: '',
 		slug: 'dummy-education-item-2',
-		subjects: ['Assembly', 'Rust', 'Computer Architecture', 'Algorithms and Data structures']
+		subjects: ['C#', '.NET', 'Angular', 'Python', 'Algorithms and Data structures']
+	},
+	{
+		degree: 'Bachelor of Engineering in Software Engineering',
+		description: '',
+		location: 'Dallas, TX',
+		logo: Assets.DIU,
+		name: '',
+		organization: 'Dallas International University',
+		period: { from: new Date(2011, 7, 20), to: new Date(2015, 6, 17) },
+		shortDescription: '',
+		slug: 'dummy-education-item',
+		subjects: ['C#', 'Algorithm', 'Algebra', 'Python', 'Java', '.NET']
 	}
 ];
 

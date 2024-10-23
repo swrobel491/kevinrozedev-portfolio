@@ -1,3 +1,3 @@
 export const data = '';
 
-export const title = 'Resumé';
+export const title = 'Resume';

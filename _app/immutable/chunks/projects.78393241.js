@@ -1,4 +1,4 @@
-import{A as e}from"./UIcon.c2db81b6.js";import{g as a}from"./skills.f303cb0e.js";const n=[{slug:"hsa-project",color:"green",description:`
+import{A as e}from"./UIcon.8c6c00df.js";import{g as a}from"./skills.744b028b.js";const n=[{slug:"hsa-project",color:"green",description:`
 The HSA Management project at HSA Bank is a comprehensive platform designed to help individuals and employers manage various health-related savings accounts, such as Health Savings Accounts (HSAs), Flexible Spending Accounts (FSAs), and Health Reimbursement Arrangements (HRAs). The project primarily focuses on providing users with the tools and resources to manage their healthcare expenses and savings efficiently, with a strong emphasis on user autonomy and ease of use.
 <h3>Key Features of the HSA Management Project</h3>
 <ul>

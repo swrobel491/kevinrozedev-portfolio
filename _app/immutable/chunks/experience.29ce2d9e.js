@@ -1,4 +1,4 @@
-import{A as e}from"./UIcon.c2db81b6.js";import{g as i}from"./skills.f303cb0e.js";import{C as a}from"./types.1ebf2f37.js";const o=[{slug:"sr-fullstack-engineer",company:"HSA Bank",description:`
+import{A as e}from"./UIcon.8c6c00df.js";import{g as i}from"./skills.744b028b.js";import{C as a}from"./types.1ebf2f37.js";const o=[{slug:"sr-fullstack-engineer",company:"HSA Bank",description:`
 In my role as a Senior Full Stack Engineer at HSA Bank, I was instrumental in developing and maintaining scalable, secure, and user-friendly web applications and services that support millions of customers managing Health Savings Accounts (HSAs), Flexible Spending Accounts (FSAs), and Health Reimbursement Arrangements (HRAs). I focused on ensuring these solutions were reliable and met the needs of both users and the business, improving operational efficiency and customer satisfaction.
 <br/><br/>
 <h3>Key Responsibilities</h3>
